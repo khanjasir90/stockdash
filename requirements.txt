@@ -176,3 +176,4 @@ sklearn
 keras
 matplotlib
 pandas
+tensorflow
