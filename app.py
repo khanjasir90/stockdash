@@ -3,10 +3,10 @@ import streamlit as st
 from plotly import graph_objs as go
 import yfinance as yf
 from datetime import date
-from sktime.forecasting.fbprophet import Prophet
+#from sktime.forecasting.fbprophet import Prophet
 from sklearn.preprocessing import MinMaxScaler
 from keras.models import load_model
-from statistics import mode
+#from statistics import mode
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
