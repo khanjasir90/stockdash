@@ -177,3 +177,4 @@ keras
 matplotlib
 pandas
 tensorflow
+pandas_datareader
